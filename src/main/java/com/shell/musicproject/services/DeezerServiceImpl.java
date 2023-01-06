@@ -1,4 +1,4 @@
-package com.shell.muiscproject.services;
+package com.shell.musicproject.services;
 
 import com.squareup.okhttp.*;
 import org.springframework.stereotype.Service;

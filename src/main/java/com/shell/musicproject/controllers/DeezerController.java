@@ -1,7 +1,6 @@
-package com.shell.muiscproject.controllers;
+package com.shell.musicproject.controllers;
 
-import com.shell.muiscproject.services.DeezerService;
-import com.shell.muiscproject.services.DeezerServiceImpl;
+import com.shell.musicproject.services.DeezerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
